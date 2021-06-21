@@ -32,13 +32,8 @@ namespace HW03.Operators
                     fifthTask.Start();
                     break;
                 case "6":
-
-                    break;
-                case "7":
-                    break;
-                case "8":
-                    break;
-                case "9":
+                    Task_06 sixthTask = new Task_06();
+                    sixthTask.Start();
                     break;
             }
         }
