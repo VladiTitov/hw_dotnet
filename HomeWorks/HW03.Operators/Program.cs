@@ -28,8 +28,11 @@ namespace HW03.Operators
                     fourthTask.Start();
                     break;
                 case "5":
+                    Task_05 fifthTask = new Task_05();
+                    fifthTask.Start();
                     break;
                 case "6":
+
                     break;
                 case "7":
                     break;
