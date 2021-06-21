@@ -19,6 +19,8 @@ namespace HW03.Operators
                     secondTask.Start();
                     break;
                 case "3":
+                    Task_03 thirdTask = new Task_03();
+                    thirdTask.Start();
                     break;
                 case "4":
                     break;
