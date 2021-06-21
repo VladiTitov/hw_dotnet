@@ -8,6 +8,7 @@ namespace HW03.Operators
         {
             Console.WriteLine("Введите номер задания для проверки [1-9]:");
             string numTask = Console.ReadLine();
+            Console.WriteLine($"Запуск задания №{numTask} для проверки...");
             switch (numTask)
             {
                 case "1":
@@ -23,6 +24,8 @@ namespace HW03.Operators
                     thirdTask.Start();
                     break;
                 case "4":
+                    Task_04 fourthTask = new Task_04();
+                    fourthTask.Start();
                     break;
                 case "5":
                     break;
