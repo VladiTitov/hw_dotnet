@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Birthday", "HW03.Birth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Calculator", "HW03.Calculator\HW03.Calculator.csproj", "{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW06.AssemblyOne", "HW06.AssemblyOne\HW06.AssemblyOne.csproj", "{C2AB6ACE-EECF-4720-880A-593F8DAF9744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06.AssemblyOne", "HW06.AssemblyOne\HW06.AssemblyOne.csproj", "{C2AB6ACE-EECF-4720-880A-593F8DAF9744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW06.AssemblyTwo", "HW06.AssemblyTwo\HW06.AssemblyTwo.csproj", "{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06.AssemblyTwo", "HW06.AssemblyTwo\HW06.AssemblyTwo.csproj", "{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06.MotoFactory", "HW06,MotoFactory\HW06.MotoFactory.csproj", "{170763B9-CED2-4177-8530-53F420FF518B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
