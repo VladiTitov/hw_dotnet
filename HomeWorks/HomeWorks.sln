@@ -2,6 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Operators", "HW03.Operators\HW03.Operators.csproj", "{F33029FD-1C8F-47CD-AC55-1DB9A49E3517}"
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW05.Task01", "HW05.Task01\HW05.Task01.csproj", "{C899FE79-04BA-47CD-92AE-AAEC320658D0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW05.Task02", "HW05.Task02\HW05.Task02.csproj", "{1C7DBC50-3FEB-401B-BA80-E05532619470}"
@@ -20,9 +21,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW04.Task05", "HW04.Task05\HW04.Task05.csproj", "{46C837CE-062D-41F3-BFE7-A891F2E4035F}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators", "HW03.Operators\HW03.Operators.csproj", "{F33029FD-1C8F-47CD-AC55-1DB9A49E3517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{2C7F7999-BD46-442A-9583-C0F7F2697873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{2C7F7999-BD46-442A-9583-C0F7F2697873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Calculator", "HW03.Calculator\HW03.Calculator.csproj", "{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Calculator", "HW03.Calculator\HW03.Calculator.csproj", "{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06.AssemblyOne", "HW06.AssemblyOne\HW06.AssemblyOne.csproj", "{C2AB6ACE-EECF-4720-880A-593F8DAF9744}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06.AssemblyTwo", "HW06.AssemblyTwo\HW06.AssemblyTwo.csproj", "{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW06.MotoFactory", "HW06,MotoFactory\HW06.MotoFactory.csproj", "{170763B9-CED2-4177-8530-53F420FF518B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -78,7 +85,18 @@ Global
 		{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}.Release|Any CPU.Build.0 = Release|Any CPU
-
+		{C2AB6ACE-EECF-4720-880A-593F8DAF9744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AB6ACE-EECF-4720-880A-593F8DAF9744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AB6ACE-EECF-4720-880A-593F8DAF9744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AB6ACE-EECF-4720-880A-593F8DAF9744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A23D0B-C4B8-4047-895A-8A907E5CEBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170763B9-CED2-4177-8530-53F420FF518B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
