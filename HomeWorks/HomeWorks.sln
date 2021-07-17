@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Birthday", "HW03.Birth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW03.Calculator", "HW03.Calculator\HW03.Calculator.csproj", "{31ADEF14-6F81-459B-A6EF-EC9EA3B40FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW08.Task01", "HW08.Task01\HW08.Task01.csproj", "{76E47C82-7C65-481D-AD2F-721786FC553F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW08.Task01", "HW08.Task01\HW08.Task01.csproj", "{76E47C82-7C65-481D-AD2F-721786FC553F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW08.Task02", "HW08.Task02\HW08.Task02.csproj", "{0EC270FC-5A11-4C26-967F-A077EF6297E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{76E47C82-7C65-481D-AD2F-721786FC553F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E47C82-7C65-481D-AD2F-721786FC553F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E47C82-7C65-481D-AD2F-721786FC553F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC270FC-5A11-4C26-967F-A077EF6297E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC270FC-5A11-4C26-967F-A077EF6297E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC270FC-5A11-4C26-967F-A077EF6297E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC270FC-5A11-4C26-967F-A077EF6297E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
